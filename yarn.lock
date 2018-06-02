@@ -7418,6 +7418,10 @@ vue-eslint-parser@^2.0.3:
     esquery "^1.0.0"
     lodash "^4.17.4"
 
+vue-form-generator@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/vue-form-generator/-/vue-form-generator-2.2.2.tgz#7b419ff830e0b5a21d9033d65b4583d264336e8e"
+
 vue-hot-reload-api@^2.2.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.0.tgz#97976142405d13d8efae154749e88c4e358cf926"
