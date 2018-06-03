@@ -6,7 +6,7 @@
       "password": "J0hnD03!x4"
     },
     "schema": {
-    "fields":
+      "fields":
       [
         {
           "type": "input",
@@ -36,44 +36,44 @@
           "hint": "Minimum 6 characters",
           "validator": "string"
         }
+      ]
+      }
+  },
+  "form2": {
+    "model":{
+      "skills": "Javascript",
+      "email": "john.doe@gmail.com",
+      "status": true
+    },
+    "schema": {
+      "fields":
+      [
+        {
+          "type": "select",
+          "label": "skills",
+          "model": "skills",
+          "values": [
+              "Javascript",
+              "VueJS",
+              "CSS3",
+              "HTML5"
+          ]
+        },
+        {
+          "type": "input",
+          "inputType": "email",
+          "label": "E-mail",
+          "model": "email",
+          "placeholder": "User's e-mail address",
+          "validator": "email"
+        },
+        {
+          "type": "checkbox",
+          "label": "Status",
+          "model": "status",
+          "default": true
+        }
         ]
       }
-    },
-    "form2": {
-      "model":{
-        "skills": "Javascript",
-        "email": "john.doe@gmail.com",
-        "status": true
-      },
-      "schema": {
-       "fields":
-        [
-          {
-            "type": "select",
-            "label": "skills",
-            "model": "skills",
-            "values": [
-                "Javascript",
-                "VueJS",
-                "CSS3",
-                "HTML5"
-            ]
-          },
-          {
-            "type": "input",
-            "inputType": "email",
-            "label": "E-mail",
-            "model": "email",
-            "placeholder": "User's e-mail address",
-            "validator": "email"
-          },
-          {
-            "type": "checkbox",
-            "label": "Status",
-            "model": "status",
-            "default": true
-          }
-          ]
-        }
-      }
+    }
   }
