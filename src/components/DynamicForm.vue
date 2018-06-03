@@ -16,6 +16,8 @@ import VueFormGenerator from 'vue-form-generator'
 import 'vue-form-generator/dist/vfg.css'
 import Vue from 'vue'
 Vue.use(VueFormGenerator)
+VueFormGenerator.validators.resources.fieldIsRequired = '必須項目だよ'
+VueFormGenerator.validators.resources.textTooSmall = '短すぎ!! : 今{0}文字, 最低{1}文字入力してね'
 export default {
   mounted: function () {
     var that = this

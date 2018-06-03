@@ -23,7 +23,8 @@
           "model": "name",
           "placeholder": "Your name",
           "featured": true,
-          "required": true
+          "required": true,
+          "validator": "string"
         },
         {
           "type": "input",
@@ -63,7 +64,8 @@
             "inputType": "email",
             "label": "E-mail",
             "model": "email",
-            "placeholder": "User's e-mail address"
+            "placeholder": "User's e-mail address",
+            "validator": "email"
           },
           {
             "type": "checkbox",
