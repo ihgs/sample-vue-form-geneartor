@@ -1,5 +1,13 @@
 = サーバーからのデータで動的にフォームを作成する
 
+== 準備
+
+```
+yarn install
+```
+
+== 実行
+
 サーバー側のモックを起動
 
 ```
@@ -11,3 +19,9 @@ npm run server
 ```
 npm run dev
 ```
+
+以下のURLにアクセス
+
+http://localhost:8080/#/?type=form1
+
+http://localhost:8080/#/?type=form1
