@@ -11,6 +11,7 @@
       <div class='panel-body'>
         <vue-form-generator :schema='schema' :model='model' :options='formOptions'></vue-form-generator>
       </div>
+      <button class="btn btn-primary" v-on:click="send">Submit</button>
     </div>
   </div>
 </template>
@@ -25,19 +26,15 @@ export default {
     var that = this
     const url = '/api/' + this.selected
     axios.get(url).then(function (response) {
-      that.schema = response.data
+      that.model = response.data.model
+      console.log(that.model)
+      that.schema = response.data.schema
     })
   },
   data () {
     return {
       loaded: false,
       model: {
-        id: 1,
-        name: 'John Doe',
-        password: 'J0hnD03!x4',
-        skills: ['Javascript', 'VueJS'],
-        email: 'john.doe@gmail.com',
-        status: true
       },
       schema: null,
       formOptions: {
@@ -52,8 +49,16 @@ export default {
       var that = this
       const url = '/api/' + this.selected
       axios.get(url).then(function (response) {
-        that.schema = response.data
+        that.model = response.data.model
+        console.log(that.model)
+        console.log('----------------')
+        that.schema = response.data.schema
       })
+    }
+  },
+  methods: {
+    send: function (evnet) {
+      alert(JSON.stringify(this.model))
     }
   }
 }
