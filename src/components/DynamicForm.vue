@@ -27,9 +27,7 @@ export default {
   },
   data () {
     return {
-      loaded: false,
-      model: {
-      },
+      model: null,
       schema: null,
       formOptions: {
         validateAfterLoad: true,
