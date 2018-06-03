@@ -40,7 +40,7 @@ export default {
   },
   methods: {
     send: function (evnet) {
-      alert(JSON.stringify(this.model))
+      alert('POST /' + this.type + '  body:' + JSON.stringify(this.model))
     }
   }
 }
