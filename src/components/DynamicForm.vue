@@ -1,13 +1,7 @@
 <template>
   <div class="container">
-    <div>
-      <select v-model="selected" options="formtype">
-        <option>form1</option>
-        <option>form2</option>
-      </select>
-    </div>
     <div class="panel panel-default">
-      <div class="panel-heading">Dynamic Form</div>
+      <div class="panel-heading">Dynamic Form: {{type}}</div>
       <div class='panel-body'>
         <vue-form-generator :schema='schema' :model='model' :options='formOptions'></vue-form-generator>
       </div>
@@ -25,10 +19,9 @@ Vue.use(VueFormGenerator)
 export default {
   mounted: function () {
     var that = this
-    const url = '/api/' + this.selected
+    const url = '/api/' + this.type
     axios.get(url).then(function (response) {
       that.model = response.data.model
-      console.log(that.model)
       that.schema = response.data.schema
     })
   },
@@ -42,19 +35,7 @@ export default {
         validateAfterLoad: true,
         validateAfterChanged: true
       },
-      selected: 'form1'
-    }
-  },
-  watch: {
-    selected: function () {
-      var that = this
-      const url = '/api/' + this.selected
-      axios.get(url).then(function (response) {
-        that.model = response.data.model
-        console.log(that.model)
-        console.log('----------------')
-        that.schema = response.data.schema
-      })
+      type: this.$route.query.type
     }
   },
   methods: {
