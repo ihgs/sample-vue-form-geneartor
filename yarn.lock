@@ -2408,6 +2408,15 @@ dot-prop@^4.1.0:
   dependencies:
     is-obj "^1.0.0"
 
+dummy-json@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/dummy-json/-/dummy-json-2.0.0.tgz#799f0e0a4b777685c97baf9d56e78a424aaea00a"
+  dependencies:
+    fecha "^1.1.0"
+    handlebars "~4.0.5"
+    numbro "^1.6.2"
+    seedrandom "^2.4.2"
+
 duplexer3@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
@@ -3040,6 +3049,10 @@ fd-slicer@~1.0.1:
   dependencies:
     pend "~1.2.0"
 
+fecha@^1.1.0:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/fecha/-/fecha-1.2.2.tgz#14d95d8c8831366846e6cc90f2c870229e7ad1f9"
+
 figures@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/figures/-/figures-2.0.0.tgz#3ab1a2d2a62c8bfb431a0c94cb797a2fce27c962"
@@ -3445,7 +3458,7 @@ handle-thing@^1.2.5:
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-1.2.5.tgz#fd7aad726bf1a5fd16dfc29b2f7a6601d27139c4"
 
-handlebars@^4.0.3:
+handlebars@^4.0.3, handlebars@~4.0.5:
   version "4.0.11"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.11.tgz#630a35dfe0294bc281edae6ffc5d329fc7982dcc"
   dependencies:
@@ -5515,6 +5528,10 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
+numbro@^1.6.2:
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/numbro/-/numbro-1.11.1.tgz#e0d9ba0ddfc3ad5ac01d9558a49383db214f04be"
+
 nwsapi@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/nwsapi/-/nwsapi-2.0.1.tgz#a50d59a2dcb14b6931401171713ced2d0eb3468f"
@@ -6875,6 +6892,10 @@ schema-utils@^0.4.0, schema-utils@^0.4.5:
   dependencies:
     ajv "^6.1.0"
     ajv-keywords "^3.1.0"
+
+seedrandom@^2.4.2:
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/seedrandom/-/seedrandom-2.4.3.tgz#2438504dad33917314bff18ac4d794f16d6aaecc"
 
 select-hose@^2.0.0:
   version "2.0.0"

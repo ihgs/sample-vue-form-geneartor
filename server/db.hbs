@@ -1,4 +1,33 @@
 {
+  "users": {
+    "data": [
+      {{#repeat 50}}
+      {
+        "id": {{@index}},
+        "name": "{{firstName}} {{lastName}}",
+        "email": "{{email}}",
+        "age": "{{int 0 100}}"
+      }
+      {{/repeat}}
+    ],
+    "meta": {
+      "table_schema": {
+        "fields": {
+          "name": {
+            "label": "Name",
+            "sortable": true
+          },
+          "email": {
+            "label": "E-Mail"
+          },
+          "age": {
+            "label": "Age",
+            "sortable": true
+          }
+        }
+      }
+    }
+  },
   "form1": {
     "model":{
       "id": 1,
@@ -74,6 +103,6 @@
           "default": true
         }
         ]
-      }
     }
   }
+}

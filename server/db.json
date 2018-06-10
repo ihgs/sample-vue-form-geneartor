@@ -1,0 +1,401 @@
+{
+  "users": {
+    "data": [
+      {
+        "id": 0,
+        "name": "Janett Young",
+        "email": "janett.young@bellgate.mobi",
+        "age": "66"
+      },
+      {
+        "id": 1,
+        "name": "Kirstie Schaefer",
+        "email": "kirstie.schaefer@templatek.name",
+        "age": "100"
+      },
+      {
+        "id": 2,
+        "name": "Liza Porras",
+        "email": "liza.porras@peersys.gov",
+        "age": "89"
+      },
+      {
+        "id": 3,
+        "name": "Jenna Chapman",
+        "email": "jenna.chapman@dynaair.biz",
+        "age": "95"
+      },
+      {
+        "id": 4,
+        "name": "Mitch Stine",
+        "email": "mitch.stine@multilingua.net",
+        "age": "9"
+      },
+      {
+        "id": 5,
+        "name": "Erik Tuck",
+        "email": "erik.tuck@conixco.net",
+        "age": "87"
+      },
+      {
+        "id": 6,
+        "name": "Rufus Mullens",
+        "email": "rufus.mullens@forecore.com",
+        "age": "81"
+      },
+      {
+        "id": 7,
+        "name": "Lynetta Hottle",
+        "email": "lynetta.hottle@xenosys.org",
+        "age": "62"
+      },
+      {
+        "id": 8,
+        "name": "Francis Durrett",
+        "email": "francis.durrett@iridimax.net",
+        "age": "72"
+      },
+      {
+        "id": 9,
+        "name": "Rene Luck",
+        "email": "rene.luck@peersys.com",
+        "age": "20"
+      },
+      {
+        "id": 10,
+        "name": "Lyle Pace",
+        "email": "lyle.pace@smartsystems.edu",
+        "age": "78"
+      },
+      {
+        "id": 11,
+        "name": "Kurt Carter",
+        "email": "kurt.carter@iridimax.net",
+        "age": "3"
+      },
+      {
+        "id": 12,
+        "name": "Theo Seabury",
+        "email": "theo.seabury@corexts.net",
+        "age": "16"
+      },
+      {
+        "id": 13,
+        "name": "Alejandro Backer",
+        "email": "alejandro.backer@corptek.org",
+        "age": "45"
+      },
+      {
+        "id": 14,
+        "name": "Elaine Finn",
+        "email": "elaine.finn@unilogic.mobi",
+        "age": "18"
+      },
+      {
+        "id": 15,
+        "name": "Richelle Cappel",
+        "email": "richelle.cappel@sophis.biz",
+        "age": "8"
+      },
+      {
+        "id": 16,
+        "name": "Rikki Oldman",
+        "email": "rikki.oldman@forecore.edu",
+        "age": "42"
+      },
+      {
+        "id": 17,
+        "name": "Kathy Gilmore",
+        "email": "kathy.gilmore@turbosystems.co",
+        "age": "13"
+      },
+      {
+        "id": 18,
+        "name": "Susana Hundt",
+        "email": "susana.hundt@helixicon.me",
+        "age": "46"
+      },
+      {
+        "id": 19,
+        "name": "Gavin Correa",
+        "email": "gavin.correa@fastfreight.me",
+        "age": "21"
+      },
+      {
+        "id": 20,
+        "name": "Cecilia Remus",
+        "email": "cecilia.remus@mediadime.gov",
+        "age": "38"
+      },
+      {
+        "id": 21,
+        "name": "Jetta Chapman",
+        "email": "jetta.chapman@cryosoft.edu",
+        "age": "2"
+      },
+      {
+        "id": 22,
+        "name": "Jenette Grieve",
+        "email": "jenette.grieve@multiserv.biz",
+        "age": "34"
+      },
+      {
+        "id": 23,
+        "name": "Rikki Bourne",
+        "email": "rikki.bourne@galcom.edu",
+        "age": "8"
+      },
+      {
+        "id": 24,
+        "name": "Stephen Woodrum",
+        "email": "stephen.woodrum@nitrosystems.edu",
+        "age": "14"
+      },
+      {
+        "id": 25,
+        "name": "Max Porras",
+        "email": "max.porras@kancom.club",
+        "age": "55"
+      },
+      {
+        "id": 26,
+        "name": "Rosanne Kilmer",
+        "email": "rosanne.kilmer@galcom.mobi",
+        "age": "28"
+      },
+      {
+        "id": 27,
+        "name": "Elaine Carter",
+        "email": "elaine.carter@keysoft.mobi",
+        "age": "39"
+      },
+      {
+        "id": 28,
+        "name": "Juliana Backer",
+        "email": "juliana.backer@dynaroc.mobi",
+        "age": "0"
+      },
+      {
+        "id": 29,
+        "name": "Benito Flinn",
+        "email": "benito.flinn@optiplex.org",
+        "age": "100"
+      },
+      {
+        "id": 30,
+        "name": "Neida Bourne",
+        "email": "neida.bourne@ulogica.xyz",
+        "age": "75"
+      },
+      {
+        "id": 31,
+        "name": "Liza Hancock",
+        "email": "liza.hancock@lexiconlabs.mobi",
+        "age": "97"
+      },
+      {
+        "id": 32,
+        "name": "Victoria Muldoon",
+        "email": "victoria.muldoon@tecomix.name",
+        "age": "14"
+      },
+      {
+        "id": 33,
+        "name": "Jenna Fennell",
+        "email": "jenna.fennell@conixco.name",
+        "age": "77"
+      },
+      {
+        "id": 34,
+        "name": "Rickey Bryd",
+        "email": "rickey.bryd@logico.biz",
+        "age": "34"
+      },
+      {
+        "id": 35,
+        "name": "Jamie Chapman",
+        "email": "jamie.chapman@polycore.eu",
+        "age": "100"
+      },
+      {
+        "id": 36,
+        "name": "Lynetta Verde",
+        "email": "lynetta.verde@citisys.mobi",
+        "age": "99"
+      },
+      {
+        "id": 37,
+        "name": "Tyler Leath",
+        "email": "tyler.leath@fastmart.com",
+        "age": "7"
+      },
+      {
+        "id": 38,
+        "name": "Alexa Lenihan",
+        "email": "alexa.lenihan@hivemind.eu",
+        "age": "88"
+      },
+      {
+        "id": 39,
+        "name": "Hannah Sprowl",
+        "email": "hannah.sprowl@solexis.info",
+        "age": "43"
+      },
+      {
+        "id": 40,
+        "name": "Jocelyn Krumm",
+        "email": "jocelyn.krumm@strategyline.info",
+        "age": "29"
+      },
+      {
+        "id": 41,
+        "name": "Rolf Whitson",
+        "email": "rolf.whitson@cryptonica.club",
+        "age": "43"
+      },
+      {
+        "id": 42,
+        "name": "Craig Mercer",
+        "email": "craig.mercer@openserv.xyz",
+        "age": "0"
+      },
+      {
+        "id": 43,
+        "name": "Madelyn Cappel",
+        "email": "madelyn.cappel@duoserve.edu",
+        "age": "89"
+      },
+      {
+        "id": 44,
+        "name": "Mitch Whitson",
+        "email": "mitch.whitson@nitrocam.gov",
+        "age": "13"
+      },
+      {
+        "id": 45,
+        "name": "Stephen Verde",
+        "email": "stephen.verde@cirpria.net",
+        "age": "82"
+      },
+      {
+        "id": 46,
+        "name": "Craig Bryd",
+        "email": "craig.bryd@bellgate.info",
+        "age": "61"
+      },
+      {
+        "id": 47,
+        "name": "Theo Pendergast",
+        "email": "theo.pendergast@quadtek.org",
+        "age": "99"
+      },
+      {
+        "id": 48,
+        "name": "Leanne Hundt",
+        "email": "leanne.hundt@proline.club",
+        "age": "46"
+      },
+      {
+        "id": 49,
+        "name": "Susana Risley",
+        "email": "susana.risley@tecomix.co",
+        "age": "9"
+      }
+    ],
+    "meta": {
+      "table_schema": {
+        "fields": {
+          "name": {
+            "label": "Name",
+            "sortable": true
+          },
+          "email": {
+            "label": "E-Mail"
+          },
+          "age": {
+            "label": "Age",
+            "sortable": true
+          }
+        }
+      },
+      "size":50
+    }
+  },
+  "form1": {
+    "model":{
+      "id": 1,
+      "name": "John Doe",
+      "password": "J0hnD03!x4"
+    },
+    "schema": {
+      "fields":
+      [
+        {
+          "type": "input",
+          "inputType": "text",
+          "label": "ID (disabled text field)",
+          "model": "id",
+          "readonly": true,
+          "disabled": true
+        },
+        {
+          "type": "input",
+          "inputType": "text",
+          "label": "Name",
+          "model": "name",
+          "placeholder": "Your name",
+          "featured": true,
+          "required": true,
+          "validator": "string"
+        },
+        {
+          "type": "input",
+          "inputType": "password",
+          "label": "Password",
+          "model": "password",
+          "min": 6,
+          "required": true,
+          "hint": "Minimum 6 characters",
+          "validator": "string"
+        }
+      ]
+      }
+  },
+  "form2": {
+    "model":{
+      "skills": "Javascript",
+      "email": "john.doe@gmail.com",
+      "status": true
+    },
+    "schema": {
+      "fields":
+      [
+        {
+          "type": "select",
+          "label": "skills",
+          "model": "skills",
+          "values": [
+              "Javascript",
+              "VueJS",
+              "CSS3",
+              "HTML5"
+          ]
+        },
+        {
+          "type": "input",
+          "inputType": "email",
+          "label": "E-mail",
+          "model": "email",
+          "placeholder": "User's e-mail address",
+          "validator": "email"
+        },
+        {
+          "type": "checkbox",
+          "label": "Status",
+          "model": "status",
+          "default": true
+        }
+        ]
+    }
+  }
+}
