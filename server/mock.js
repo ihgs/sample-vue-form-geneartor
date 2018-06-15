@@ -8,9 +8,6 @@ server.use(router)
 
 
 
-// Will transform
-// { id: ..., title: ... } to { id: ..., attributes: { title: ... } }
-// [ { id: ..., title: ... } ] to { data: [ ... ] }
 router.render = function (req, res) {
   var data = res.locals.data.data
   if (Array.isArray(data)) {

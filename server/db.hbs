@@ -1,18 +1,24 @@
 {
   "users": {
     "data": [
-      {{#repeat 50}}
+      {{#repeat 55}}
       {
         "id": {{@index}},
         "name": "{{firstName}} {{lastName}}",
         "email": "{{email}}",
-        "age": "{{int 0 100}}"
+        "age": "{{int 0 100}}",
+        "actions": ["edit","delete"]
       }
       {{/repeat}}
     ],
     "meta": {
+      "title": "User List",
+      "size": 55,
       "table_schema": {
         "fields": {
+          "id": {
+            "label": "Id"
+          },
           "name": {
             "label": "Name",
             "sortable": true
@@ -23,6 +29,9 @@
           "age": {
             "label": "Age",
             "sortable": true
+          },
+          "actions": {
+
           }
         }
       }

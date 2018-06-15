@@ -3,308 +3,398 @@
     "data": [
       {
         "id": 0,
-        "name": "Janett Young",
-        "email": "janett.young@bellgate.mobi",
-        "age": "66"
+        "name": "Michael Hancock",
+        "email": "michael.hancock@dynaair.com",
+        "age": "99",
+        "actions": ["edit","delete"]
       },
       {
         "id": 1,
-        "name": "Kirstie Schaefer",
-        "email": "kirstie.schaefer@templatek.name",
-        "age": "100"
+        "name": "Raymond Gilmore",
+        "email": "raymond.gilmore@haltheon.me",
+        "age": "53",
+        "actions": ["edit","delete"]
       },
       {
         "id": 2,
-        "name": "Liza Porras",
-        "email": "liza.porras@peersys.gov",
-        "age": "89"
+        "name": "Jetta Remus",
+        "email": "jetta.remus@triosys.name",
+        "age": "30",
+        "actions": ["edit","delete"]
       },
       {
         "id": 3,
-        "name": "Jenna Chapman",
-        "email": "jenna.chapman@dynaair.biz",
-        "age": "95"
+        "name": "Lynetta Kilmer",
+        "email": "lynetta.kilmer@cryptonica.com",
+        "age": "22",
+        "actions": ["edit","delete"]
       },
       {
         "id": 4,
-        "name": "Mitch Stine",
-        "email": "mitch.stine@multilingua.net",
-        "age": "9"
+        "name": "Max Kilmer",
+        "email": "max.kilmer@creatonix.name",
+        "age": "11",
+        "actions": ["edit","delete"]
       },
       {
         "id": 5,
-        "name": "Erik Tuck",
-        "email": "erik.tuck@conixco.net",
-        "age": "87"
+        "name": "Russell Muldoon",
+        "email": "russell.muldoon@strategyline.gov",
+        "age": "80",
+        "actions": ["edit","delete"]
       },
       {
         "id": 6,
-        "name": "Rufus Mullens",
-        "email": "rufus.mullens@forecore.com",
-        "age": "81"
+        "name": "Alexis Bradbury",
+        "email": "alexis.bradbury@qualcore.co",
+        "age": "78",
+        "actions": ["edit","delete"]
       },
       {
         "id": 7,
-        "name": "Lynetta Hottle",
-        "email": "lynetta.hottle@xenosys.org",
-        "age": "62"
+        "name": "Lorelei Luck",
+        "email": "lorelei.luck@hivemind.biz",
+        "age": "37",
+        "actions": ["edit","delete"]
       },
       {
         "id": 8,
-        "name": "Francis Durrett",
-        "email": "francis.durrett@iridimax.net",
-        "age": "72"
+        "name": "Drew Milligan",
+        "email": "drew.milligan@sealine.xyz",
+        "age": "8",
+        "actions": ["edit","delete"]
       },
       {
         "id": 9,
-        "name": "Rene Luck",
-        "email": "rene.luck@peersys.com",
-        "age": "20"
+        "name": "Lloyd Jensen",
+        "email": "lloyd.jensen@connic.edu",
+        "age": "40",
+        "actions": ["edit","delete"]
       },
       {
         "id": 10,
-        "name": "Lyle Pace",
-        "email": "lyle.pace@smartsystems.edu",
-        "age": "78"
+        "name": "Cedric Milligan",
+        "email": "cedric.milligan@infracom.me",
+        "age": "6",
+        "actions": ["edit","delete"]
       },
       {
         "id": 11,
-        "name": "Kurt Carter",
-        "email": "kurt.carter@iridimax.net",
-        "age": "3"
+        "name": "Cecilia Hancock",
+        "email": "cecilia.hancock@unilogic.org",
+        "age": "85",
+        "actions": ["edit","delete"]
       },
       {
         "id": 12,
-        "name": "Theo Seabury",
-        "email": "theo.seabury@corexts.net",
-        "age": "16"
+        "name": "Emma Fennell",
+        "email": "emma.fennell@logico.com",
+        "age": "19",
+        "actions": ["edit","delete"]
       },
       {
         "id": 13,
-        "name": "Alejandro Backer",
-        "email": "alejandro.backer@corptek.org",
-        "age": "45"
+        "name": "Rico Garling",
+        "email": "rico.garling@eluxa.com",
+        "age": "50",
+        "actions": ["edit","delete"]
       },
       {
         "id": 14,
-        "name": "Elaine Finn",
-        "email": "elaine.finn@unilogic.mobi",
-        "age": "18"
+        "name": "Rico Bryd",
+        "email": "rico.bryd@anaplex.org",
+        "age": "19",
+        "actions": ["edit","delete"]
       },
       {
         "id": 15,
-        "name": "Richelle Cappel",
-        "email": "richelle.cappel@sophis.biz",
-        "age": "8"
+        "name": "Jason Pettey",
+        "email": "jason.pettey@tecomix.net",
+        "age": "49",
+        "actions": ["edit","delete"]
       },
       {
         "id": 16,
-        "name": "Rikki Oldman",
-        "email": "rikki.oldman@forecore.edu",
-        "age": "42"
+        "name": "Stephen Luck",
+        "email": "stephen.luck@fastfreight.name",
+        "age": "8",
+        "actions": ["edit","delete"]
       },
       {
         "id": 17,
-        "name": "Kathy Gilmore",
-        "email": "kathy.gilmore@turbosystems.co",
-        "age": "13"
+        "name": "Marcus Pickering",
+        "email": "marcus.pickering@hypervision.biz",
+        "age": "91",
+        "actions": ["edit","delete"]
       },
       {
         "id": 18,
-        "name": "Susana Hundt",
-        "email": "susana.hundt@helixicon.me",
-        "age": "46"
+        "name": "Raisa Friedrich",
+        "email": "raisa.friedrich@infratouch.info",
+        "age": "1",
+        "actions": ["edit","delete"]
       },
       {
         "id": 19,
-        "name": "Gavin Correa",
-        "email": "gavin.correa@fastfreight.me",
-        "age": "21"
+        "name": "Theo Karst",
+        "email": "theo.karst@triosys.info",
+        "age": "87",
+        "actions": ["edit","delete"]
       },
       {
         "id": 20,
-        "name": "Cecilia Remus",
-        "email": "cecilia.remus@mediadime.gov",
-        "age": "38"
+        "name": "Cedric Luck",
+        "email": "cedric.luck@cameratek.club",
+        "age": "58",
+        "actions": ["edit","delete"]
       },
       {
         "id": 21,
-        "name": "Jetta Chapman",
-        "email": "jetta.chapman@cryosoft.edu",
-        "age": "2"
+        "name": "Jason Carroll",
+        "email": "jason.carroll@multilingua.me",
+        "age": "56",
+        "actions": ["edit","delete"]
       },
       {
         "id": 22,
-        "name": "Jenette Grieve",
-        "email": "jenette.grieve@multiserv.biz",
-        "age": "34"
+        "name": "Drew Bickers",
+        "email": "drew.bickers@thermolock.info",
+        "age": "29",
+        "actions": ["edit","delete"]
       },
       {
         "id": 23,
-        "name": "Rikki Bourne",
-        "email": "rikki.bourne@galcom.edu",
-        "age": "8"
+        "name": "Neida Milling",
+        "email": "neida.milling@chromaton.club",
+        "age": "11",
+        "actions": ["edit","delete"]
       },
       {
         "id": 24,
-        "name": "Stephen Woodrum",
-        "email": "stephen.woodrum@nitrosystems.edu",
-        "age": "14"
+        "name": "Vaughn Pendergast",
+        "email": "vaughn.pendergast@hypervision.me",
+        "age": "15",
+        "actions": ["edit","delete"]
       },
       {
         "id": 25,
-        "name": "Max Porras",
-        "email": "max.porras@kancom.club",
-        "age": "55"
+        "name": "Kirstie Neal",
+        "email": "kirstie.neal@nitrosystems.club",
+        "age": "38",
+        "actions": ["edit","delete"]
       },
       {
         "id": 26,
-        "name": "Rosanne Kilmer",
-        "email": "rosanne.kilmer@galcom.mobi",
-        "age": "28"
+        "name": "Kirstie Stine",
+        "email": "kirstie.stine@chromaton.name",
+        "age": "57",
+        "actions": ["edit","delete"]
       },
       {
         "id": 27,
-        "name": "Elaine Carter",
-        "email": "elaine.carter@keysoft.mobi",
-        "age": "39"
+        "name": "Tyler Cappel",
+        "email": "tyler.cappel@corexts.mobi",
+        "age": "41",
+        "actions": ["edit","delete"]
       },
       {
         "id": 28,
-        "name": "Juliana Backer",
-        "email": "juliana.backer@dynaroc.mobi",
-        "age": "0"
+        "name": "Myong Remus",
+        "email": "myong.remus@polygan.biz",
+        "age": "89",
+        "actions": ["edit","delete"]
       },
       {
         "id": 29,
-        "name": "Benito Flinn",
-        "email": "benito.flinn@optiplex.org",
-        "age": "100"
+        "name": "Haydee Backer",
+        "email": "haydee.backer@sunopia.club",
+        "age": "50",
+        "actions": ["edit","delete"]
       },
       {
         "id": 30,
-        "name": "Neida Bourne",
-        "email": "neida.bourne@ulogica.xyz",
-        "age": "75"
+        "name": "Kurt Bryd",
+        "email": "kurt.bryd@storex.gov",
+        "age": "11",
+        "actions": ["edit","delete"]
       },
       {
         "id": 31,
-        "name": "Liza Hancock",
-        "email": "liza.hancock@lexiconlabs.mobi",
-        "age": "97"
+        "name": "Russell Chapman",
+        "email": "russell.chapman@keycast.info",
+        "age": "42",
+        "actions": ["edit","delete"]
       },
       {
         "id": 32,
-        "name": "Victoria Muldoon",
-        "email": "victoria.muldoon@tecomix.name",
-        "age": "14"
+        "name": "Roselyn Grieve",
+        "email": "roselyn.grieve@peersys.club",
+        "age": "61",
+        "actions": ["edit","delete"]
       },
       {
         "id": 33,
-        "name": "Jenna Fennell",
-        "email": "jenna.fennell@conixco.name",
-        "age": "77"
+        "name": "Lance Gilmore",
+        "email": "lance.gilmore@infratouch.info",
+        "age": "41",
+        "actions": ["edit","delete"]
       },
       {
         "id": 34,
-        "name": "Rickey Bryd",
-        "email": "rickey.bryd@logico.biz",
-        "age": "34"
+        "name": "Warren Winter",
+        "email": "warren.winter@storex.net",
+        "age": "25",
+        "actions": ["edit","delete"]
       },
       {
         "id": 35,
-        "name": "Jamie Chapman",
-        "email": "jamie.chapman@polycore.eu",
-        "age": "100"
+        "name": "Jenette Sprowl",
+        "email": "jenette.sprowl@infracom.com",
+        "age": "33",
+        "actions": ["edit","delete"]
       },
       {
         "id": 36,
-        "name": "Lynetta Verde",
-        "email": "lynetta.verde@citisys.mobi",
-        "age": "99"
+        "name": "Maisha Hancock",
+        "email": "maisha.hancock@britech.com",
+        "age": "43",
+        "actions": ["edit","delete"]
       },
       {
         "id": 37,
-        "name": "Tyler Leath",
-        "email": "tyler.leath@fastmart.com",
-        "age": "7"
+        "name": "Craig Seabury",
+        "email": "craig.seabury@strategyline.com",
+        "age": "26",
+        "actions": ["edit","delete"]
       },
       {
         "id": 38,
-        "name": "Alexa Lenihan",
-        "email": "alexa.lenihan@hivemind.eu",
-        "age": "88"
+        "name": "Raisa Tuck",
+        "email": "raisa.tuck@freecast.xyz",
+        "age": "61",
+        "actions": ["edit","delete"]
       },
       {
         "id": 39,
-        "name": "Hannah Sprowl",
-        "email": "hannah.sprowl@solexis.info",
-        "age": "43"
+        "name": "Emma Rebelo",
+        "email": "emma.rebelo@dalserve.xyz",
+        "age": "61",
+        "actions": ["edit","delete"]
       },
       {
         "id": 40,
-        "name": "Jocelyn Krumm",
-        "email": "jocelyn.krumm@strategyline.info",
-        "age": "29"
+        "name": "Rickey Raymond",
+        "email": "rickey.raymond@britech.eu",
+        "age": "42",
+        "actions": ["edit","delete"]
       },
       {
         "id": 41,
-        "name": "Rolf Whitson",
-        "email": "rolf.whitson@cryptonica.club",
-        "age": "43"
+        "name": "Lynetta Rebelo",
+        "email": "lynetta.rebelo@kancom.mobi",
+        "age": "25",
+        "actions": ["edit","delete"]
       },
       {
         "id": 42,
-        "name": "Craig Mercer",
-        "email": "craig.mercer@openserv.xyz",
-        "age": "0"
+        "name": "Chloe Muldoon",
+        "email": "chloe.muldoon@ulogica.net",
+        "age": "22",
+        "actions": ["edit","delete"]
       },
       {
         "id": 43,
-        "name": "Madelyn Cappel",
-        "email": "madelyn.cappel@duoserve.edu",
-        "age": "89"
+        "name": "Lorelei Rhymer",
+        "email": "lorelei.rhymer@foretrust.biz",
+        "age": "89",
+        "actions": ["edit","delete"]
       },
       {
         "id": 44,
-        "name": "Mitch Whitson",
-        "email": "mitch.whitson@nitrocam.gov",
-        "age": "13"
+        "name": "Warren Turner",
+        "email": "warren.turner@iridimax.org",
+        "age": "96",
+        "actions": ["edit","delete"]
       },
       {
         "id": 45,
-        "name": "Stephen Verde",
-        "email": "stephen.verde@cirpria.net",
-        "age": "82"
+        "name": "Marcus Luck",
+        "email": "marcus.luck@multiserv.me",
+        "age": "20",
+        "actions": ["edit","delete"]
       },
       {
         "id": 46,
-        "name": "Craig Bryd",
-        "email": "craig.bryd@bellgate.info",
-        "age": "61"
+        "name": "Rolf Kilmer",
+        "email": "rolf.kilmer@venstrategy.net",
+        "age": "57",
+        "actions": ["edit","delete"]
       },
       {
         "id": 47,
-        "name": "Theo Pendergast",
-        "email": "theo.pendergast@quadtek.org",
-        "age": "99"
+        "name": "Juliana Goudy",
+        "email": "juliana.goudy@tomiatech.gov",
+        "age": "4",
+        "actions": ["edit","delete"]
       },
       {
         "id": 48,
-        "name": "Leanne Hundt",
-        "email": "leanne.hundt@proline.club",
-        "age": "46"
+        "name": "Anton Matzen",
+        "email": "anton.matzen@amsquare.club",
+        "age": "47",
+        "actions": ["edit","delete"]
       },
       {
         "id": 49,
-        "name": "Susana Risley",
-        "email": "susana.risley@tecomix.co",
-        "age": "9"
+        "name": "Adam Cappel",
+        "email": "adam.cappel@quadtek.co",
+        "age": "64",
+        "actions": ["edit","delete"]
+      },
+      {
+        "id": 50,
+        "name": "Anton Stine",
+        "email": "anton.stine@loopsys.gov",
+        "age": "92",
+        "actions": ["edit","delete"]
+      },
+      {
+        "id": 51,
+        "name": "Juliana Rebelo",
+        "email": "juliana.rebelo@opticast.com",
+        "age": "72",
+        "actions": ["edit","delete"]
+      },
+      {
+        "id": 52,
+        "name": "Rolf Raymond",
+        "email": "rolf.raymond@acousticom.mobi",
+        "age": "78",
+        "actions": ["edit","delete"]
+      },
+      {
+        "id": 53,
+        "name": "Rosie Miers",
+        "email": "rosie.miers@ulogica.org",
+        "age": "17",
+        "actions": ["edit","delete"]
+      },
+      {
+        "id": 54,
+        "name": "Edward Tindel",
+        "email": "edward.tindel@kancom.co",
+        "age": "5",
+        "actions": ["edit","delete"]
       }
     ],
     "meta": {
+      "title": "User List",
+      "size": 55,
       "table_schema": {
         "fields": {
+          "id": {
+            "label": "Id"
+          },
           "name": {
             "label": "Name",
             "sortable": true
@@ -315,10 +405,12 @@
           "age": {
             "label": "Age",
             "sortable": true
+          },
+          "actions": {
+
           }
         }
-      },
-      "size":50
+      }
     }
   },
   "form1": {
